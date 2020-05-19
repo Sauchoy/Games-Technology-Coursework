@@ -18,3 +18,6 @@ Part 2 requires one of the following to be implemented:
 Part 3 requires one of the following to be implemented:
 * A demo mode (Implemented)
 * An alien spaceship
+
+## Installation
+Download as a .zip file and Extract into a new empty folder, navigate to /VC/Asteroids and open 'Asteroids.vcxproj' in Visual Studio (I used VC 2017 for this coursework)
